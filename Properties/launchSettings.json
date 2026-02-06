@@ -1,0 +1,9 @@
+﻿{
+  "profiles": {
+    "SpeedServer": {
+      "commandName": "Project",
+      "applicationUrl": "http://localhost:5000",
+      "dotnetRunMessages": true
+    }
+  }
+}
